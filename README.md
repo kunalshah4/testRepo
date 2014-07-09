@@ -1,3 +1,0 @@
-testRepo
-========
-Details abour repo
